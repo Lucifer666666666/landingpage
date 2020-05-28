@@ -1,0 +1,1 @@
+importScripts("https://backend.central-message.com/js/sw-base.js");
